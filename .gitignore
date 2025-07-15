@@ -7,7 +7,7 @@ cache
 *.pyc
 instance
 .DS_Store
-*DRF_with_auth
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
