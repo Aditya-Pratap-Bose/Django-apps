@@ -1,14 +1,4 @@
-/env
-*__pycache__
-*db.sqlite3
-*.env
-.env
-cache
-*.pyc
-instance
-.DS_Store
-*DRF_with_auth
-# Byte-compiled / optimized / DLL files
+e# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
 *$py.class
