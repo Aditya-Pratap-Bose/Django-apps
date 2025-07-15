@@ -7,4 +7,5 @@
 - growing my knowledge on`DRF` and `JWT`
 - Foundation in authentication and authorization
 - Exploring the idea of distributed systems
-- some heavy Backend webapps
+- some heavy Backend webapps practice
+- raw garbage codes
